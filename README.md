@@ -10,7 +10,6 @@
     http://www.apsim.info/APSIM.Builds.Portal/Bob.aspx
     
     下一版本：
-    
     https://github.com/APSIMInitiative/ApsimX/
 ## WOFOST模型
 
